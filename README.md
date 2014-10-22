@@ -1,4 +1,8 @@
 firstcloud
 ==========
 
-AWS test deploy
+AWS test deploy 
+
+Rails 4
+MySQL
+Elastic Beanstalk
